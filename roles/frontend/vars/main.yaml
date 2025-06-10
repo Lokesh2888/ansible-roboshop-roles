@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.pothina.store
+USER_HOST: user.pothina.store
+CART_HOST: cart.pothina.store
+SHIPPING_HOST: shipping.pothina.store
+PAYMENT_HOST: payment.pothina.store

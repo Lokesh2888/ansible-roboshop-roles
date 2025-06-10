@@ -1,0 +1,5 @@
+CART_HOST: cart.pothina.store
+USER_HOST: user.pothina.store
+RABBITMQ_HOST: rabbitmq.pothina.store
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
